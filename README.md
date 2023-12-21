@@ -1,6 +1,6 @@
 # Flog: Link Quality Modeling for LoRa Networks in Orchards
 This is the codebase for the paper:
-[Link Quality Modeling for LoRa Networks in Orchards]
+[*Link Quality Modeling for LoRa Networks in Orchards*](https://cloudeval-yaml.github.io/static/files/cloudeval-yaml.pdf).
 
 #### 📋 Prerequisites:
 
