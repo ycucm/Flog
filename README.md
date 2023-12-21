@@ -1,5 +1,5 @@
 # Flog: Link Quality Modeling for LoRa Networks in Orchards
-This is the codebase for the paper:
+This is the artifacts for the ACM/IEEE IPSN'23 paper:
 [*Link Quality Modeling for LoRa Networks in Orchards*](https://cloudeval-yaml.github.io/static/files/cloudeval-yaml.pdf).
 
 #### 📋 Prerequisites:
