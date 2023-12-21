@@ -14,6 +14,6 @@ Install the python prerequisites
 
 execute "Run All" in fitting_ground.ipynb
 
-#### 🌳 Other 2 PLEs fitting and testing
+#### 🌳 Tree PLE fitting and testing
 
 execute "Run All" in overall.ipynb
